@@ -1,0 +1,37 @@
+# TrabajoGrupal
+
+#### Alumna: Arianna Zavala
+#### Grupo: 2
+
+### Información del trabajo 
+
+##### Tema de trabajo:  Causas de las diferencias de la tasa de contagios de COVID-19 durante los primeros 30 días entre distintos países 
+
+##### Pregunta de investigación: ¿Qué factores explican la diferencia entre la cantidad de contagios por cada 100 mil habitantes durante los primeros 30 días entre distintos países?
+
+##### Variables independientes a analizar en esta parte del entregable
+##### - (1) Porcentaje del gasto en salud según el PBI de cada país (2017)
+         - Base de datos: gasto_salud
+         - Nombre de la variable independiente: GS_2017
+         - Fuente: Banco Mundial
+         - Año de información: 2017
+         - variable: númerica
+         
+##### - (2) PBI per cápita según el valor de dolar actual
+          - Base de datos: ppp_pib
+          - Nombre de la variable independiente: PPP_2018
+          - Fuente: Banco Mundial
+          - Año de información: 2018
+          - variable: númerica
+
+
+##### Justificación
+
+# 1 ¿Por qué evaluar el porcentaje del gasto en salud según el PBI de cada país (2017)?
+
+Evidencia la preocupación y las condiciones que se encontraba el sector salud de cada país para responder a la pandemia. La evaluación de este factor, asimismo, permitirá la evaluacion de que medida es más significativa para la atención de los casos: si las medidas preventivas (durante el covid) o la capacidad estatal. 
+Por otro lado, la elección del año "2017" se debe a que fue el último donde el Banco Mundial proveyó información.
+
+# 2 ¿Por qué evaluar el PBI per  cápita según el valor del dolar actual?
+
+La evaluación del PPP per cápita según el valor del dolar actual permitirá identificar la capacidad económica de cada país durante el año de 2018. Y esta, en relación con otras variables, permitirá determinar si el factor monetario es significativo con el manejo de la tasa-de-covid durante el primer mes.
